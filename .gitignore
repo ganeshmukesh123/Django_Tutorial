@@ -36,6 +36,7 @@ social_blog/social_blog/__pycache__
 *.pyc
 *~
 __pycache__
+blog
 db.sqlite3
 /static
 .DS_Store
