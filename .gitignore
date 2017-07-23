@@ -33,3 +33,10 @@ db.sqlite3
 Simple_blog/mysite/settings.py
 social_blog/social_blog/__pycache__
 social_blog/social_blog/__pycache__
+*.pyc
+*~
+__pycache__
+blog
+db.sqlite3
+/static
+.DS_Store
